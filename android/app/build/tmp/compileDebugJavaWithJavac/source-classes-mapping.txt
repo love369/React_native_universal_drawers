@@ -1,0 +1,14 @@
+com/uvitrack1/BuildConfig.java
+ com.uvitrack1.BuildConfig
+com/uvitrack1/MainApplication.java
+ com.uvitrack1.MainApplication
+ com.uvitrack1.MainApplication$1
+com/uvitrack1/ReactNativeFlipper.java
+ com.uvitrack1.ReactNativeFlipper
+ com.uvitrack1.ReactNativeFlipper$1
+ com.uvitrack1.ReactNativeFlipper$2
+ com.uvitrack1.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/uvitrack1/MainActivity.java
+ com.uvitrack1.MainActivity

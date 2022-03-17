@@ -1,0 +1,6 @@
+module Pods_uvitrack1_uvitrack1Tests {
+  umbrella header "Pods-uvitrack1-uvitrack1Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
